@@ -158,7 +158,7 @@ void solve(){
 
 		} else if(x == 5) {
 
-			printTable(table);
+			// printTable(table);
 
 			printTableStatus(table);
 
