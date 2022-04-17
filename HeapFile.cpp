@@ -54,7 +54,7 @@ ll toint(string s) {stringstream ss; ss << s; ll x; ss >> x; return x;}
 // <------------------------------------------- WRITE CODE HERE ------------------------------------------------>
 
 
-int pgSize, intSize = 4;;
+int pgSize, intSize = 4;
 
 class page{
 public:
